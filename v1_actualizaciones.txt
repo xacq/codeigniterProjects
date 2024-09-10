@@ -1,0 +1,11 @@
+**************************************************
+####### actualizaciones a realizar ###############
+**************************************************
+
+1.- en el menu DOCENTE cambiar REGISTRAR por ASIGNAR CURSO OK
+2.- cuando registra el curso al docente cargar la fecha actual por defecto OK
+3.- cuando registras el docente aparece un error (OK)
+4.- seleccion de cuotas no debe seleccionar sino que colocar caja de texto para que usuario permita digitar
+5.- estado de la matricula siempre es pendiente
+6.- la fecha actual de la matricula debe estar precargado actual
+7.- numeros de cuotas al pagar se graba desde la base de datos
